@@ -1,5 +1,5 @@
-/* 제주시 임야 재배임산물 추천 — 오프라인·자동 갱신 서비스워커 (버전 def76d7969e7) */
-const CACHE = 'imsanmul-v1';
+/* 제주시 임야 재배임산물 추천 — 오프라인·자동 갱신 서비스워커 (버전 72c8919dfd28) */
+const CACHE = 'imsanmul-terrain-20261107';
 const PAGE = './';
 const ASSETS = ['./', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 const WAIT = 4000;   // 이 시간 안에 서버 응답이 없으면 저장된 판을 먼저 보여 준다
